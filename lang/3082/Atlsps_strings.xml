@@ -1,0 +1,111 @@
+﻿<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Atlsps>Ateleaspis</Atlsps>
+      <Atlsps_stt>Ateleaspis</Atlsps_stt>
+      <Atlsps_lower>El Ateleaspis</Atlsps_lower>
+      <Atlsps_ltt>
+         <color r="255" g="248" b="178">
+            <b>Ateleaspis</b>
+         </color>
+         <br/>
+         Haga clic y seleccione un Ateleaspis.
+      </Atlsps_ltt>
+</entityname>
+<zoopedia_atlsps>
+ <entry>Ateleaspis</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+   
+               <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Atlsps/Atlsps_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Estado de conservacion:
+                     <br/>
+                        <color r="0" g="255" b="0">
+                      Extinto
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>   
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Costa<br/></color>
+     <img src="ui/icon_biomes/icon_reef.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Mar del Tetis<br/></color> 
+     <img src="ui/icon_maplocations/reef_warm_oceans_worldwide.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Clase: Monorhina <i>(Peces con casco)</i><br/>Orden: Osteostraci <i>(Osteostracida)</i><br/>Familia: Ateleaspidae <i>(Ateleaspis)</i><br/>Gender: <i>Ateleaspis</i><br/>Especie: <i>A. Tessellata</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/reef_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Datos del Ateleaspis</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Sus aletas pectorales fueron las primeras de los vertebrados.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Ateleaspis media unos 26 cm.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    Para adoptar un Ateleaspis necesitas 1/2 estrellas de fama en el zoo.
+   </color>
+   <p/>Ateleaspis es, hasta donde sabemos, uno de los peces cephalaspidos mas viejos encontrados asta ahora. Este pez no tienen astas, cual son las extensiones puntiagudas de ambos lados de la parte inferior de la cabeza-escudo y la caracteristica de la mayoria de cephalaspidos. En contraste con Birkenia, Lasanius y thelodonts este pez tiene un lobulo caudal superior y uno menor. Esta condicion se llama heterocercal. El centro del escudo muestra aberturas orbitales, un pineal - y una obertura naso-hypophysico. La apertura oral se encuentra en la parte inferior de la cara ventral de la cabeza-casco. Posterior a la boca hay semi-circular fila de aberturas branquiales a ambos lados de la cabeza-escudo. Algunos trabajadores consideran que los peces sin mandibula cephalaspids como el grupo mas cercano a los gnathostomates (peces con mandibulas). Se uso el analisis cladistico para llegar a esta conclusion. Sin embargo, otros prefieren los grupos thelodont-posible mas cercanos a gnatostomos, los tiburones y parientes en especial.
+   </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   Informacion de Wikipedia
+  <p/>Hecho por imago
+  </cell>
+ </text>
+</zoopedia_atlsps>
+</ZT2Strings>
